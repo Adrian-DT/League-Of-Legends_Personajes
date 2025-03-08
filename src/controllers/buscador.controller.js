@@ -63,7 +63,7 @@ controller.buscarNombre = async (req, res) => {
     const resultados = personajes.personajes.filter(personaje =>
         personaje.nombre.toLowerCase().includes(criterio.toLowerCase()));
     if (resultados.length === 0) {
-        return res.status(404).send(`No se encontraron personajes con nombre ${nombre}.`);
+        // return res.status(404).send(`No se encontraron personajes con nombre ${nombre}.`);
     } else {
         res.send(resultados);
     }

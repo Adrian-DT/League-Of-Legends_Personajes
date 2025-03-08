@@ -1,0 +1,44 @@
+div.card-Buscador{
+  position: fixed !important;
+  top: 20%;
+  left: 37%;
+  margin: 0px auto !important;
+  z-index: 1050; /* Usa el mismo z-index que los modales de Bootstrap */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* width: 18rem; 
+  height: 24rem; */
+}
+
+/* Botón de cierre (X) */
+.btn-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 1.2rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: white;
+  z-index: 1060 !important;
+}
+
+/* Estilo del overlay (fondo oscuro) */
+.overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(3px); /* Difuminado */
+  z-index: 1000;
+}
+
+.card-modal{
+  position: relative;
+  max-width: 500px;
+  width: 95%;
+}

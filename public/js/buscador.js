@@ -330,16 +330,3 @@ buscarNombre.addEventListener("click", async (e) => {
     e.preventDefault();
     filtroNombre();
 });
-
-//--------BUSCADOR COMÚN DE LA PÁGINA----------
-const buscadorNav = document.querySelector(".btnBuscarNombreNav");
-
-buscadorNav.addEventListener("click", async (e) => {
-    e.preventDefault();
-
-    filtroNombreNav();
-});
-
-function filtroNombreNav(){
-
-}
