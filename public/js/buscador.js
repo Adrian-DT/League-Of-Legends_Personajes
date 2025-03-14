@@ -12,7 +12,7 @@ const ordNombre = document.querySelector("#ordNombre");
 const ordAlias = document.querySelector("#ordAlias");
 
 //Ruta del archivo JSON
-const rutaPersonajesJSON = "http://localhost:3000/buscador";
+const rutaPersonajesJSON = "http://localhost:8000/buscador";
 const rutaPersonajesDificultadJSON = "http://localhost:3000/buscador/dificultad";
 const rutaPersonajesRolJSON = "http://localhost:3000/buscador/rol";
 
