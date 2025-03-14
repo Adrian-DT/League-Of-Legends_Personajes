@@ -11,13 +11,10 @@ const buscarNombre = document.querySelector(".btnBuscarNombre");
 const ordNombre = document.querySelector("#ordNombre");
 const ordAlias = document.querySelector("#ordAlias");
 
-const path = require("path");
-
-
 //Ruta del archivo JSON
-const rutaPersonajesJSON = path.join(__dirname,"/buscador");
-const rutaPersonajesDificultadJSON = path.join(__dirname,"/buscador/dificultad");
-const rutaPersonajesRolJSON = path.join(__dirname,"/buscador/rol");
+const rutaPersonajesJSON = "/buscador";
+const rutaPersonajesDificultadJSON = "/buscador/dificultad";
+const rutaPersonajesRolJSON = "/buscador/rol";
 
 const filtroDificultad = async () => {
     try {
