@@ -1,7 +1,7 @@
 const formulario = document.querySelector("#modificar");
 
 //Ruta del archivo JSON
-const rutaPersonajesJSON = "http://localhost:3000/modificar";
+const rutaPersonajesJSON = "http://localhost:8000/modificar";
 // const rutaVerPersonajesJSON = path.join(__dirname, "../personajes.json");
 
 const datosForm = () => {
