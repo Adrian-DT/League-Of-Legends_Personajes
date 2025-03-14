@@ -4,7 +4,7 @@ const inputBuscadorNav = document.querySelector("#inputCriterioNav");
 
 const btnBuscadorNav = document.querySelector(".btnBuscarNombreNav");
 
-const rutaPersonajesCardJSON = "http://localhost:3000/buscador";
+const rutaPersonajesCardJSON = "http://localhost:8000/buscador";
 
 const card = document.createElement('div');
 
