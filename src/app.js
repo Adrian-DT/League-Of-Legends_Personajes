@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = 8000;
 const path = require('path');
 
 app.use(require("../src/routes/index.routes"));
