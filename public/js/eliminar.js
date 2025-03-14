@@ -1,5 +1,6 @@
+const path = require("path");
 
-const rutaPersonajesJSON = "http://localhost:8000/borrar";
+const rutaPersonajesJSON = path.join(__dirname,"/borrar");
 
 (function mostrarP() {
     fetch("/personajes")

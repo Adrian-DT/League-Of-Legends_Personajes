@@ -1,7 +1,9 @@
 const formulario = document.querySelector("#insertar");
 
+const path = require("path");
+
 //Ruta del archivo JSON
-const rutaPersonajesJSON = "http://localhost:8000/anadir/personaje";
+const rutaPersonajesJSON = path.join(__dirname,"/anadir/personaje");
 
 const datosForm = () => {
     // El objeto FormData recibe el formulario del que recibe los datos

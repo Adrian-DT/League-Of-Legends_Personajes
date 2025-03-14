@@ -4,9 +4,12 @@ const inputBuscadorNav = document.querySelector("#inputCriterioNav");
 
 const btnBuscadorNav = document.querySelector(".btnBuscarNombreNav");
 
-const rutaPersonajesCardJSON = "http://localhost:8000/buscador";
+const path = require("path");
+
+const rutaPersonajesCardJSON = path.join(__dirname,"/buscador");
 
 const card = document.createElement('div');
+
 
 
 const filtroNombreNav = async () => {
