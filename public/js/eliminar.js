@@ -1,5 +1,5 @@
 
-const rutaPersonajesJSON = "http://localhost:3000/borrar";
+const rutaPersonajesJSON = "http://localhost:8000/borrar";
 
 (function mostrarP() {
     fetch("/personajes")
