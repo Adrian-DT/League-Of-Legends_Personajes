@@ -1,7 +1,7 @@
 const formulario = document.querySelector("#insertar");
 
 //Ruta del archivo JSON
-const rutaPersonajesJSON = "http://localhost:3000/anadir/personaje";
+const rutaPersonajesJSON = "http://localhost:8000/anadir/personaje";
 
 const datosForm = () => {
     // El objeto FormData recibe el formulario del que recibe los datos
