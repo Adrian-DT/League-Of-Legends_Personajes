@@ -36,7 +36,7 @@ Aplicación web desarrollada con **Node.js y Express** para gestionar personajes
 
 - **Backend**: Node.js + Express.js  
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)  
-- **Almacenamiento**: Archivo JSON (`data/personajes.json`)  
+- **Almacenamiento**: Archivo JSON (`src/personajes.json`)  
 - **Métodos HTTP**: GET, POST, PUT, DELETE  
 
 ---
