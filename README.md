@@ -63,7 +63,7 @@ Aplicación web desarrollada con **Node.js y Express** para gestionar personajes
 
 1. Clona el repositorio:  
    ```bash
-   git clone [https://github.com/Adrian-DT/League-Of-Legends_Personajes.git]
+   git clone https://github.com/Adrian-DT/League-Of-Legends_Personajes.git
    ```
 
 2. Instala dependencias:  
