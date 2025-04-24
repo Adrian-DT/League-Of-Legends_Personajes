@@ -57,6 +57,10 @@ Aplicación web desarrollada con **Node.js y Express** para gestionar personajes
 ### Eliminar personaje
 ![Navegacion](screenshots/eliminar.png)
 
+
+## 💻 Despliegue
+   Visita el siguiente enlace: https://league-of-legends-personajes.koyeb.app/
+   
 ---
 
 ## 📦 Instalación
@@ -87,12 +91,16 @@ Aplicación web desarrollada con **Node.js y Express** para gestionar personajes
 ## 📖 Uso Básico
 
 1. **Añadir Personaje**  
-   - Ve a **/nuevo** y completa el formulario.  
+   - Ve a **/anadir** y completa el formulario.  
    - ¡Automáticamente se añadirá a `personajes.json`!
 
 2. **Filtrar por Rol**  
    - Selecciona un rol en el menú desplegable.
-3. **Buscar Personaje**  
+     
+3. **Filtrar por Dificultad**  
+   - Selecciona una dificultad en el menú desplegable.
+
+4. **Buscar Personaje**  
    - Escribe en el campo de búsqueda (ej: "lux" o "Lux")  
    - Verás tarjetas con los resultados coincidentes.
      
