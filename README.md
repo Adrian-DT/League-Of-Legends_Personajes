@@ -25,8 +25,8 @@ Aplicación web desarrollada con **Node.js y Express** para gestionar personajes
      "id": "1",
      "nombre": "Ahri",
      "alias": "La Raposa de Nueve Colas",
-     "dificultad": medio,
-     "rol": "Mago"
+     "dificultad": "medio",
+     "rol": "mago"
    }
    ```
 
