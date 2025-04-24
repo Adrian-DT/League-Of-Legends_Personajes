@@ -83,9 +83,6 @@ Aplicación web desarrollada con **Node.js y Express** para gestionar personajes
 4. Accede a la app en:  
    [http://localhost:3000](http://localhost:3000)
 
-5. Aplicación desplegada en:
-   https://league-of-legends-personajes.koyeb.app/
-
 ---
 
 ## 📖 Uso Básico
