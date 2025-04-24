@@ -1,9 +1,6 @@
 ```markdown
 # League of Legends Character Manager 🎮
 
-[![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/) 
-[![Express](https://img.shields.io/badge/Express-4.x-blue)](https://expressjs.com/)
-
 Aplicación web desarrollada con **Node.js y Express** para gestionar personajes de League of Legends mediante un sistema CRUD completo. La información se almacena en un archivo **JSON** y permite operaciones dinámicas desde una interfaz intuitiva.
 
 ---
@@ -73,11 +70,10 @@ Aplicación web desarrollada con **Node.js y Express** para gestionar personajes
 
 1. **Añadir Personaje**  
    - Ve a **/nuevo** y completa el formulario.  
-   - ¡Automáticamente se añadirá a `characters.json`!
+   - ¡Automáticamente se añadirá a `personajes.json`!
 
 2. **Filtrar por Rol**  
-   - Selecciona un rol en el menú desplegable de la barra lateral.
-
+   - Selecciona un rol en el menú desplegable.
 3. **Buscar Personaje**  
    - Escribe en el campo de búsqueda (ej: "lux" o "Lux")  
    - Verás tarjetas con los resultados coincidentes.
