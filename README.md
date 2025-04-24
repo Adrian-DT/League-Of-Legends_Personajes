@@ -40,6 +40,24 @@ Aplicación web desarrollada con **Node.js y Express** para gestionar personajes
 - **Métodos HTTP**: GET, POST, PUT, DELETE  
 
 ---
+## 📸 Capturas de Pantalla
+
+### Vista Principal
+![Pagina principal](screenshots/index.png)
+
+### Visualización de Personajes
+![Pagina personajes](screenshots/personajes.png)
+
+### Búsqueda de personajes
+![Búsqueda](screenshots/buscador.png)
+
+### Buscador en navegación
+![Navegacion](screenshots/buscar_personaje.png)
+
+### Eliminar personaje
+![Navegacion](screenshots/eliminar.png)
+
+---
 
 ## 📦 Instalación
 
