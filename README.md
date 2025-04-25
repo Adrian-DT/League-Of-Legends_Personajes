@@ -1,7 +1,9 @@
 ```markdown
 # League of Legends Character Manager 🎮
 
-Aplicación web desarrollada con **Node.js y Express** para gestionar personajes de League of Legends mediante un sistema CRUD completo. La información se almacena en un archivo **JSON** y permite operaciones dinámicas desde una interfaz intuitiva.
+Aplicación web desarrollada con **Node.js y Express** para gestionar personajes de
+League of Legends mediante un sistema CRUD completo. La información se almacena en
+un archivo **JSON** y permite operaciones dinámicas desde una interfaz intuitiva.
 
 ---
 
