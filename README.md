@@ -37,7 +37,7 @@ un archivo **JSON** y permite operaciones dinámicas desde una interfaz intuitiv
 ## 🛠️ Tecnologías Utilizadas
 
 - **Backend**: Node.js + Express.js  
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)  
+- **Frontend**: HTML5, Bootstrap, JavaScript (Vanilla)  
 - **Almacenamiento**: Archivo JSON (`src/personajes.json`)  
 - **Métodos HTTP**: GET, POST, PUT, DELETE  
 
