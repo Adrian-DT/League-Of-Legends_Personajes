@@ -79,11 +79,11 @@ un archivo **JSON** y permite operaciones dinámicas desde una interfaz intuitiv
 
 3. Inicia el servidor:  
    ```bash
-   npm start
+   npm src/app.js
    ```
 
 4. Accede a la app en:  
-   [http://localhost:3000](http://localhost:3000)
+   [http://localhost:8000](http://localhost:8000)
 
 ---
 
